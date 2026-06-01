@@ -2,7 +2,7 @@
 
   Meu nome é Lohane!! 🤍
 - 💻 Atualmente estou estudando conteúdos introdutórios de linguagens de programação.
-- 📚 Procuro colaborar com os meus aprendizados.
+- 📚 Sou etudante de Engenharia Agrícola e Ambiental.
 
 
 <div>
