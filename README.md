@@ -15,4 +15,4 @@ Meu nome é Lohane!
 - Sistemas de gestão agrícola
 - Desenvolvimento de software
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOHNERIBEIRO&layout=compact&theme=radical)
