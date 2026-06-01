@@ -1,14 +1,18 @@
 ### Olá, Seja bem vindo(a) !!! 👋
 
-  Meu nome é Lohane!! 🤍
-- 💻 Atualmente estou estudando conteúdos introdutórios de linguagens de programação.
-- 📚 Sou etudante de Engenharia Agrícola e Ambiental.
+Meu nome é Lohane!
 
+📚 Sou etudante de Engenharia Agrícola e Ambiental
 
-<div>
-<a href="https://github.com/LOHANERIBEIRO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LOHANERIBEIRO&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOHANERIBEIRO&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+💻 Atualmente estou estudando:
+- Java
+- SQL
+- Git e Github
+- Inglês para tecnologia
 
-![Snake animation](https://github.com/LOHANERIBEIRO/LOHANERIBEIRO/blob/output/github-contribution-grid-snake.svg)
+🍃 Interesses:
+- Tecnologia aplicada ao agronegócio
+- Sistemas de gestão agrícola
+- Desenvolvimento de software
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
